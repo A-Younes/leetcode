@@ -1,5 +1,5 @@
 def contains_dup(num_list):
-    # create and empty hashset to add to when iterating over the list
+    # Create and empty hashset to add to when iterating over the list
     hashset = set()
 
     for i in num_list:
